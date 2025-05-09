@@ -40,15 +40,13 @@ The goal is to build a model that predicts whether a visa application will be **
 
 ## Environment Creation and Activation
 
-   '''bash
-   conda create -n myenv python==3.10 -y
-   '''
+```bash
+conda create -n myenv python==3.10 -y
 
-   '''bash
-   source activate myenv
-   '''
+source activate myenv
+```
 ## Requirements Installation
 
-   '''bash
-   pip install -r requirements.txt
-   '''
+```bash
+pip install -r requirements.txt
+```
