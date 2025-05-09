@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: us_visa
+Version: 0.0.0
+Summary: us visa project to predict the visa status
+Author: imran khan
+License: MIT
+Dynamic: author
+Dynamic: license
+Dynamic: summary
