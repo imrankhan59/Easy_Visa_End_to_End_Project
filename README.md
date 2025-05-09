@@ -37,3 +37,22 @@ The goal is to build a model that predicts whether a visa application will be **
 
 10. **Age of Company**
     - 15 to 180
+
+
+## Environment Creation and Activation
+____________________________________________________________
+
+'''bash
+conda create -n myenv python==3.10 -y
+'''
+
+'''bash
+source activate myenv
+'''
+
+## Requirements Installation
+_____________________________________________________________
+
+'''bash
+pip install -r requirements.txt
+'''
