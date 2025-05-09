@@ -9,16 +9,16 @@ The goal is to build a model that predicts whether a visa application will be **
 ## **Features**
 
 1. **Continents**
-   - Asia,Africa,North America,Europe,South America,Oceania
+   - Asia, Africa, North America, Europe, South America, Oceania
 
 2. **Education**
-   - High School,Master's Degree,Bachelor's,Doctrate
+   - High School, Master's Degree, Bachelor's, Doctrate
 
 3. **Job Experience**
-   - Yes,No
+   - Yes, No
 
 4. **Required Training**
-   - Yes,No
+   - Yes, No
 
 5. **Numbers of Employees**
    - 15000 to 40000
@@ -40,7 +40,6 @@ The goal is to build a model that predicts whether a visa application will be **
 
 
 ## Environment Creation and Activation
-____________________________________________________________
 
 '''bash
 conda create -n myenv python==3.10 -y
@@ -51,7 +50,6 @@ source activate myenv
 '''
 
 ## Requirements Installation
-_____________________________________________________________
 
 '''bash
 pip install -r requirements.txt
